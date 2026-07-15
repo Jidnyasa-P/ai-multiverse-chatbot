@@ -13,14 +13,10 @@
 
 ---
 
-## 📌 Assignment Context
+## 📌 Demo Video
 
-**MirAI School of Technology**  
-**Virtual Summer Internship 2026 — The AI Builder Track**
 
-**Assignment:** Upgrading the AI Multiverse  
-**Deadline:** July 14, 2026, 11:59 PM  
-**Submission Format:** Screen recording of local app + updated `app.py` code
+https://github.com/user-attachments/assets/4051f073-3a09-40be-9606-a3b24faa7a59
 
 ---
 
@@ -141,29 +137,6 @@ http://localhost:8501
 - [x] Chat history remains visible during the session
 
 ---
-
-## 🎥 Screen Recording Tips
-
-For the student portal submission, record:
-
-1. Terminal running `streamlit run app.py`
-2. Local web app opening in browser
-3. Sidebar personality change
-4. Intensity slider change
-5. Sending a message
-6. AI response appearing as chat bubble
-7. Avatar changing for another personality
-
----
-
-## ✅ Final Submission Files
-
-Submit:
-
-```text
-app.py
-screen_recording.mp4
-```
 
 <div align="center">
 
